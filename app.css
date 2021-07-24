@@ -1,0 +1,142 @@
+.cashGivenInput{
+    display: none;
+    padding-left: 20px;
+    width: 432px;
+    padding-top: 1px;
+    padding-bottom: 31px;
+}
+.changeReturn{
+    display: none;
+}
+
+body{
+    margin: auto;
+    text-align: center;
+    /* background-color: aqua; */
+    font-family: sans-serif;
+    
+
+}
+.section{
+    background-color: rgb(253, 247, 247);
+    padding: 2rem;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 3rem;
+    box-shadow: 15px 13px 23px #aaa ;
+    border-radius: 2.5rem;
+
+}
+
+
+/* bill section */
+.billsection{
+    padding-left: 20px;
+    width: 432px;
+    padding-top: 1px;
+    padding-bottom: 31px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 2rem;
+    /* box-shadow: 15px 13px 23px #aaa ;
+    border-radius: 2.5rem; */
+}
+
+
+/* bill amount */
+h3{
+ font-size: 1.3rem;
+ text-align: left;
+ /* box-shadow: 15px 13px 23px #aaa ; */
+ /* display: inline; */
+
+}
+/* billInput */
+#billAmount{
+    display: block;
+    width: 90%;
+    padding: 1rem;
+    margin: auto;
+    font-size: 1rem;
+    box-shadow: 15px 13px 23px #aaa ;
+    border-color: white;
+    border-radius: 0.5rem;
+    
+}
+
+/* nextbutton */
+#nextBtn{
+ display: block;
+ margin: auto;
+ margin-top: 1rem;
+ padding: 0.5rem 2rem;
+ cursor: pointer;
+ box-shadow: 15px 13px 23px #aaa ;
+ border-color: white;
+ border-radius: 0.5rem;
+ 
+}
+
+
+/* cashGivenInput section */
+/*cash given heading  */
+
+/* cashInput */
+#cashGiven{
+    display: block;
+    width: 90%;
+    padding: 1rem;
+    margin: auto;
+    font-size: 1rem;
+    box-shadow: 15px 13px 23px #aaa ;
+    border-color: white;
+    border-radius: 0.5rem;
+    
+}
+/* checkbtn */
+#checkBtn{
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    box-shadow: 15px 13px 23px #aaa ;
+    border-color: white;
+    border-radius: 0.5rem;
+    
+}
+
+
+/* outputsection */
+.changeReturn{
+    padding-left: 20px;
+    width: 432px;
+    padding-top: 1px;
+    padding-bottom: 31px;
+
+}
+
+/* Note section */
+
+.noOfNotes{
+    /* background-color: white; */
+    
+    padding: 0.6rem;
+    box-shadow: 15px 13px 23px #aaa ;
+    border-color: white;
+    border-radius: 0.5rem;
+    
+}
+.Noof{
+    padding: 0.6rem;
+    background-color: rgb(170, 163, 154);
+}
+.amount{
+    /* background-color: white; */
+    padding: 0.6rem;
+    box-shadow: 15px 13px 23px #aaa ;
+    border-color: white;
+    border-radius: 0.5rem;
+    
+}
