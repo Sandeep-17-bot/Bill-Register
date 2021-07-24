@@ -53,7 +53,7 @@ checkBtn.addEventListener('click',function() {
         }
         calculateNotes(billAmtValue, cashGivenValue);
     }else{
-        showError("Enter valid bill amount and cash given to continue")
+        showError("Enter valid Bill amount and Cash  to continue")
     }
 })
 
