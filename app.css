@@ -1,7 +1,7 @@
 .cashGivenInput{
     display: none;
     padding-left: 20px;
-    width: 432px;
+    width: 85%;
     padding-top: 1px;
     padding-bottom: 31px;
 }
@@ -32,7 +32,7 @@ body{
 /* bill section */
 .billsection{
     padding-left: 20px;
-    width: 432px;
+    width: 85%;
     padding-top: 1px;
     padding-bottom: 31px;
 }
@@ -50,6 +50,7 @@ h3{
  text-align: left;
  /* box-shadow: 15px 13px 23px #aaa ; */
  /* display: inline; */
+ /* text-shadow:15px 13px 23px rgb(59, 57, 57) ; */
 
 }
 /* billInput */
@@ -110,8 +111,8 @@ h3{
 
 /* outputsection */
 .changeReturn{
-    padding-left: 20px;
-    width: 432px;
+    /* padding-left: 20px; */
+    width: 85%;
     padding-top: 1px;
     padding-bottom: 31px;
 
@@ -126,17 +127,31 @@ h3{
     box-shadow: 15px 13px 23px #aaa ;
     border-color: white;
     border-radius: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    width: 20%;
     
 }
 .Noof{
+    width: 20%;
     padding: 0.6rem;
     background-color: rgb(170, 163, 154);
+    font-size: 0.8rem;
+    font-weight: bold;
 }
 .amount{
+    width: 20%;
+
     /* background-color: white; */
     padding: 0.6rem;
     box-shadow: 15px 13px 23px #aaa ;
     border-color: white;
     border-radius: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
     
 }
+#output{
+    margin-left: -2rem;
+}
+
