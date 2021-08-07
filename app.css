@@ -1,82 +1,77 @@
-.cashGivenInput{
+.cashGivenInput {
     display: none;
     padding-left: 20px;
     width: 85%;
     padding-top: 1px;
     padding-bottom: 31px;
 }
-.changeReturn{
+
+.changeReturn {
     display: none;
 }
 
-body{
+body {
     margin: auto;
     text-align: center;
-    /* background-color: aqua; */
     font-family: sans-serif;
-    
-
 }
-.section{
+
+.section {
     background-color: rgb(253, 247, 247);
     padding: 2rem;
     max-width: 500px;
     margin: auto;
     margin-top: 3rem;
-    box-shadow: 15px 13px 23px #aaa ;
+    box-shadow: 15px 13px 23px #aaa;
     border-radius: 2.5rem;
 
 }
 
 
 /* bill section */
-.billsection{
+.billsection {
     padding-left: 20px;
     width: 85%;
     padding-top: 1px;
     padding-bottom: 31px;
 }
-h1{
+
+h1 {
     font-family: sans-serif;
     font-size: 2rem;
-    /* box-shadow: 15px 13px 23px #aaa ;
-    border-radius: 2.5rem; */
 }
 
 
 /* bill amount */
-h3{
- font-size: 1.3rem;
- text-align: left;
- /* box-shadow: 15px 13px 23px #aaa ; */
- /* display: inline; */
- /* text-shadow:15px 13px 23px rgb(59, 57, 57) ; */
-
+h3 {
+    font-size: 1.3rem;
+    text-align: left;
 }
+
 /* billInput */
-#billAmount{
+#billAmount {
     display: block;
     width: 90%;
     padding: 1rem;
     margin: auto;
     font-size: 1rem;
-    box-shadow: 15px 13px 23px #aaa ;
+    box-shadow: 15px 13px 23px #aaa;
     border-color: white;
     border-radius: 0.5rem;
-    
+
 }
 
 /* nextbutton */
-#nextBtn{
- display: block;
- margin: auto;
- margin-top: 1rem;
- padding: 0.5rem 2rem;
- cursor: pointer;
- box-shadow: 15px 13px 23px #aaa ;
- border-color: white;
- border-radius: 0.5rem;
- 
+#nextBtn {
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    box-shadow: 15px 13px 23px #aaa;
+    border-color: white;
+    border-radius: 0.5rem;
+
 }
 
 
@@ -84,33 +79,34 @@ h3{
 /*cash given heading  */
 
 /* cashInput */
-#cashGiven{
+#cashGiven {
     display: block;
     width: 90%;
     padding: 1rem;
     margin: auto;
     font-size: 1rem;
-    box-shadow: 15px 13px 23px #aaa ;
+    box-shadow: 15px 13px 23px #aaa;
     border-color: white;
     border-radius: 0.5rem;
-    
+
 }
+
 /* checkbtn */
-#checkBtn{
+#checkBtn {
     display: block;
     margin: auto;
     margin-top: 1rem;
     padding: 0.5rem 2rem;
     cursor: pointer;
-    box-shadow: 15px 13px 23px #aaa ;
+    box-shadow: 15px 13px 23px #aaa;
     border-color: white;
     border-radius: 0.5rem;
-    
+
 }
 
 
 /* outputsection */
-.changeReturn{
+.changeReturn {
     /* padding-left: 20px; */
     width: 85%;
     padding-top: 1px;
@@ -120,38 +116,37 @@ h3{
 
 /* Note section */
 
-.noOfNotes{
+.noOfNotes {
     /* background-color: white; */
-    
+
     padding: 0.6rem;
-    box-shadow: 15px 13px 23px #aaa ;
+    box-shadow: 15px 13px 23px #aaa;
     border-color: white;
     border-radius: 0.5rem;
     font-size: 0.8rem;
     font-weight: bold;
     width: 20%;
-    
+
 }
-.Noof{
+
+.Noof {
     width: 20%;
     padding: 0.6rem;
     background-color: rgb(170, 163, 154);
     font-size: 0.8rem;
     font-weight: bold;
 }
-.amount{
+
+.amount {
     width: 20%;
 
     /* background-color: white; */
     padding: 0.6rem;
-    box-shadow: 15px 13px 23px #aaa ;
+    box-shadow: 15px 13px 23px #aaa;
     border-color: white;
     border-radius: 0.5rem;
     font-size: 0.8rem;
     font-weight: bold;
-    
+
 }
-/* #output{
-    margin-left: -2rem;
-} */
 
